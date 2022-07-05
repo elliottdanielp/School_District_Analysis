@@ -32,9 +32,9 @@ By droping 9th grade from the DataFrame the overall passing rate took a big hit 
 Overall it does not affect the perfromance relative to the other schools. Thomas High School was one of the best performing schools in the district. Both with and without the 9th grade scores, Thomas High School is the 2nd highest performing school in the district based upon percentage of students overall passing, so again there isn't really impact resulting from dropping the 9th grade scores.
 
 ### How does replacing the ninth-grade scores affect the following: 
-#### Math and Reading scores by grade.
-#### Scores by school spending.
-#### Scores by school type.
+#### - Math and Reading scores by grade.
+#### - Scores by school spending.
+#### - Scores by school type.
 
 #### Math and Reading scores by grade:
 There is no impact on any scores for reading or math, other than the scores that were removed. This is because the 9th grade reading and math scores from Thomas High School are independent data points relative to the entire data frame, meaning that changing them will have no impact on the other data in the data frame. As seen in screen shots below.
